@@ -33,3 +33,15 @@ h1{
     box-shadow: 10px 10px 40px rgba(248, 254, 255, 0.705);
     background-color: lavender;
 }
+footer p{
+    text-align: center;
+}
+footer h1{
+    text-align: center;
+}
+footer{
+    background-color: slategrey;
+}
+section h1{
+    text-align: center;
+}
