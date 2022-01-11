@@ -3,11 +3,14 @@ body{
 }
 h1{
     font-size: 50px;
+    
 }
 .orange-colar{
     color: orange;
-}section{
+}
+.flexible-container{
     display: flex;
+    border: 10px red;
 }
 .half-width{
     width: 50%;
@@ -21,4 +24,12 @@ h1{
     background-color: red;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.mission-item{
+    width: 30%;
+    margin-left: 2%;
+    margin-right:2%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px rgba(248, 254, 255, 0.705);
+    background-color: lavender;
 }
